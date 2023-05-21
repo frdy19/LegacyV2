@@ -12,9 +12,9 @@ let pn = '20'
 let pp = '40'
 let pv = '50'
 let ppm = '70'
-let gambar = 'https://telegra.ph/file/21e252f71926f7fa0c931.jpg'
+let gambar = 'https://telegra.ph/file/ab025798e6c763884ef6a.jpg'
 let rull = `
-RullBot Store
+Ferdy Store
 Ini Versi Beta Test Cuy V11 Jadi Kalo Mau Nambahin Fiturnya Chat Developer Aja Nanti Cuma 6k an Doang
 `
 const sections = [
