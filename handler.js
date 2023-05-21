@@ -63,7 +63,7 @@ export async function handler(chatUpdate) {
                 if (!isNumber(user.laper)) 
                     user.laper = 100
                 if (!isNumber(user.limit))
-                    user.limit = 10
+                    user.limit = 500
                 if (!isNumber(user.lastclaim))
                     user.lastclaim = 0
                 if (!isNumber(user.joinlimit)) 
@@ -647,7 +647,7 @@ esteh: 0,
 					soal: null
 				}
           global.kontak2 = [
-        ['62xxxx', 'Rull Paling Ganteng', 'Developer Bot', 'Creator Bot', 'Pembuat Script Bot', true],
+        ['62823504965328', 'Ferdy Firmansyah', 'Developer Bot', 'Creator Bot', 'Pembuat Script Bot', true],
         [`${nomorown}`, `${nameown}`, 'Owner Bot', 'Owner Bot', true]
         ]
             let settings = global.db.data.settings[this.user.jid]

@@ -32,14 +32,14 @@ global.namesesi = 'rullzy.data'//.json
 //Ganti Nama Sessionmu Seperti Teks Diatas [!]
 
 /*Info Owner*/
-global.chisato = 'https://telegra.ph/file/ba45593f90a12008abfb4.jpg'
-global.qr = 'https://telegra.ph/file/21e252f71926f7fa0c931.jpg' //Buat Ganti Thumb Qr Gopay Lu
+global.chisato = 'https://telegra.ph/file/a4f8ee1a840128afbba67.jpg'
+global.qr = 'https://telegra.ph/file/ab025798e6c763884ef6a.jpg' //Buat Ganti Thumb Qr Gopay Lu
 global.logotime = 'https://telegra.ph/file/8e9bf0c5db8ec095a85bc.jpg' //Jan Diubah Eror Nanges
-global.sig = 'https://instagram.com/khoirul36_'
-global.syt = 'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw'
-global.sgh = 'https://github.com/Carisendiri:v'
-global.sgc = 'https://chat.whatsapp.com/KOxDMDVKO8h9pS8abkaax6'
-global.swa = 'wa.me/6287753812675'
+global.sig = '-'
+global.syt = '-'
+global.sgh = 'https://github.com/frdy19'
+global.sgc = 'https://chat.whatsapp.com/LRUp7OrEjjV6t4EH8BJuRK'
+global.swa = 'wa.me/62823504965328'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 global.pdana = '-'
@@ -47,16 +47,16 @@ global.povo = '-'
 global.pgopay = '-'
 global.ppulsa = '-'
 global.ppulsa2 = '-'
-global.psaweria = 'https://bit.ly/3eggcxd'
+global.psaweria = '-'
 /*InfoBot*/
 global.nomorbot = '-'
-global.nomorown = '6287753812675'
+global.nomorown = '62823504965328'
 global.namebot = 'Legacy Bot'
-global.nameown = 'KhrlMstfa'
-global.rul = 'https://telegra.ph/file/0a4fa7e5726f921ac52b7.jpg' //Jangan Diapus Ya Kids Nanti Eror Nangis Haha
+global.nameown = 'Ferdy Firmansyah'
+global.rul = 'https://telegra.ph/file/a4f8ee1a840128afbba67.jpg' //Jangan Diapus Ya Kids Nanti Eror Nangis Haha
 /*StaffBot*/
 global.owner = [
-  ['6287753812675', 'Rull', 'true']
+  ['62823504965328', 'Ferdy Firmansyah', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -123,27 +123,27 @@ global.wmvip = 'Scan Kode Qr Diatas Dan Jangan Lupa Kirim Bukti Pembayaran Ke Ow
 global.botdate = `⻝ Tanggal: ${week} ${date}\n⻝ Waktu: ${wktuwib}`
 global.bottime = `⻝ W A K T U : ${wktuwib}`
 global.titlebot = `LegacyBot | ʙʏ ${global.nameown}`
-global.author = 'KhrlMstfa' 
-global.packname = 'By RullZY'
+global.author = 'Legacy MD' 
+global.packname = 'By Frdyprovider'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Oktober 21 2022' //Ganti Ultah Lu Disini
+global.ultahowner = 'MEI 15 2023' //Ganti Ultah Lu Disini
 
 /*ImageBuffer*/
-global.thumb = 'https://telegra.ph/file/8a1c663c84751c10baf65.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/8a1c663c84751c10baf65.jpg'
+global.thumb = 'https://telegra.ph/file/a4f8ee1a840128afbba67.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/a4f8ee1a840128afbba67.jpg'
 global.giflogo = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
 global.giflogo2 = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya RullBOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *KhrlMstfa✓* Saya di rilis pada tanggal\n🗓 ️_23/11/2022_'
+global.botintro = 'Hallo, Kenalin saya LegacyBott Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *FrdyFrmnsyh✓* Saya di rilis pada tanggal\n🗓 ️_23/11/2022_'
 global.intro = 'https://telegra.ph/file/ac799c2925c618939e5a9.jpg'
 /*BioOwn*/
-global.nameowner = 'Rull?'
+global.nameowner = 'Ferdy Firmansyah'
 global.umurowner = '16'
-global.asalowner = 'Jatim, Trenggalek'
-global.nomorowner = 'wa.me/6287753812675'
+global.asalowner = 'Kalsel, Banjarmasin'
+global.nomorowner = 'wa.me/62823504965328'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*Text*/
@@ -156,7 +156,7 @@ global.ddocx = 'application/vnd.openxmlformats-officedocument.wordprocessingml.d
 global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
-global.thumbdoc = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.thumbdoc = 'https://telegra.ph/file/a4f8ee1a840128afbba67.jpg'
 global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
@@ -385,7 +385,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'ᴍᴀᴅᴇ ʙʏ'
-global.stickauth = `Rullz✓`
+global.stickauth = `FrdyFrmnsyh✓`
 
 global.multiplier = 38 // The higher, The harder levelup
 
